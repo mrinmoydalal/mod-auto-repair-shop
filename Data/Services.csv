@@ -1,0 +1,28 @@
+service_id,category,name,description,base_rate
+S1_001,Collision Repair,Paint (original),Painting the original color to cover small scratches or complete overhauls,400
+S1_002,Collision Repair,Paint (custom),Painting any custom color to cover small scratches or complete overhauls,550
+S1_003,Collision Repair,Autobody,Reparing the outer parts of a vehicle,2500
+S1_004,Collision Repair,Auto Parts Replacement,Replacement of auto parts,2000
+S2_001,Exhaust,Dual Mufflers,Install dual mufflers to give a powerful sound to the vehicle,180
+S2_002,Exhaust,Bolt on Kits,Install bolt kits on the vehicle,110
+S2_003,Exhaust,Flex Pipe,Repair or install a new flex pipe to the exhause,75
+S2_004,Exhaust,Headers,Intall headers to increase a car's horsepower,350
+S3_001,Auto Repair,Full Break Service,End to end repair of the breaking system,210
+S3_002,Auto Repair,Diagnostics,Complete diagnostics of the car,65
+S3_003,Auto Repair,Tune-Up,Routine maintainance,100
+S3_004,Auto Repair,Radiator Flush,Install radiator flush to prevent overheating of car,15
+S3_005,Auto Repair,AC Repair,"Diagnostics, maintainance and repair of the air-conditioning system",200
+S4_001,Suspension,CV Axles,Install/repair CV Axles in the suspension system,110
+S4_002,Suspension,Ball Joints,Install/repair bolt joints in the suspension system,600
+S4_003,Suspension,Pitman Arms,Install/repair pitman arms in the suspension system,55
+S4_004,Suspension,Alignment,Diagnostics of the alignment and balance of tires and wheels,180
+S4_005,Suspension,4WD Lift Kits,Install/repair 4WD Lift Kits,1100
+S4_006,Suspension,2WD Lift Kits,Install/repair 2WD Lift Kits,850
+S5_001,Tires,New Tires,Intall new tires in the vehicle,100
+S5_002,Tires,Used Tires,Intall used tires in the vehicle,55
+S5_003,Tires,Tire Repair,Repair and maintainance of tires in the car,25
+S5_004,Tires,Rim Repair,Repair the rim of tires,175
+S5_005,Tires,Aluminum Tig Welding,Welding to ensure the strenght of tire rims,80
+S6_001,Wheels,New Rims,Intall new rims in the vehicle,250
+S6_002,Wheels,Used Rims,Intall used rims in the vehicle,175
+S6_003,Wheels,Luxury Rims,Intall luxury rims in the vehicle,450

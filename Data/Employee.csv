@@ -1,0 +1,11 @@
+emp_id,type,fname,lname,email,street,city,state,zip
+E00001,Permanent,Derek,Brooks,dbrooks@yahoo.com,3500 Cavendish,West Lafayette,Indiana,47906-0813
+E00002,Permanent,Ted,Moore,tmoore@gmail.com,3001 Wilshire,West Lafayette,Indiana,47906-1113
+E00003,Permanent,Lily,Kelly,lkelly@hotmail.com,510 Main,Lafayette,Indiana,47901-1447
+E00004,Permanent,Alina,Stevens,astevens@outlook.com,2200 Happy Hollow,West Lafayette,Indiana,47906-1707
+E00005,Contract,Kellan,Morris,kmorris@yahoo.com,300 Main,Lafayette,Indiana,47901-1343
+E00006,Contract,Adrian,Brooks,abrooks@outlook.com,611 N 7th,Lafayette,Indiana,47901-1039
+E00007,Contract,Hailey,Davis,hdavis@gmail.com,100 Northwood,West Lafayette,Indiana,47906-1204
+E00008,Contract,Roland,Brown,rbrown@yahoo.com,3811 Campus Suites,West Lafayette,Indiana,47906-0954
+E00009,Contract,Antony,Higgins,ahiggins@hotmail.com,2800 N Salisbury,West Lafayette,Indiana,47906-1434
+E00010,Contract,Dainton,Morgan,dmorgan@yahoo.com,3700 Goodall,West Lafayette,Indiana,47906-0809

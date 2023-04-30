@@ -1,0 +1,52 @@
+consum_id,description,avail_quant,reorder_level,unit_s_price,unit_c_price
+C_ID1001,Oil Filter,40,5,12.99,8
+C_ID1002,Spark plugs,30,5,25.99,20
+C_ID1003,Ignition coils,30,5,38.95,32
+C_ID1004,brake pads,48,8,86.99,75
+C_ID1005,Rims,16,4,120,115
+C_ID1006,Tubes,47,6,9.99,5
+C_ID1007,Timing Belt ,20,4,18.95,12.99
+C_ID1008,Engine coolant ,20,5,15.95,8
+C_ID1009,Water pump,5,2,69.99,56.6
+C_ID1010,Steering wheel,15,5,26.99,22.85
+C_ID1011,Pillow Block Bearings,10,5,12.49,10.99
+C_ID1012,Flange Bearings,12,2,14.88,10.5
+C_ID1013,Sprockets,10,4,14.3,9.55
+C_ID1014,Pulley,10,2,22.95,17.8
+C_ID1015,Battery & core,10,2,136.99,110
+C_ID1016,Battery Cables ,30,6,10.8,7.55
+C_ID1017,Muffler and adapter,8,2,75.8,70.9
+C_ID1018,Rectangular Tubing,8,2,49.41,45.5
+C_ID1019,Tie Rod Ends,10,5,12.34,10
+C_ID1020,Guidance wheels,10,2,99.99,87.5
+C_ID1021,Solenoid,10,2,19.99,18.9
+C_ID1022,Throttle control,10,5,8.99,7.5
+C_ID1023,Turnbuckles,15,5,5.9,4
+C_ID1024,Threaded Rod,15,5,8,6.55
+C_ID1025,Fuel shut-off,30,5,23.71,20
+C_ID1026,Chain half links,50,5,5.38,4
+C_ID1027,Idler Pulley,8,2,30.85,28.5
+C_ID1028,V-Belt,16,4,20,16.9
+C_ID1029,Antifreeze,22,5,20.99,13.22
+C_ID1030,Fuel Line Heaters,14,6,35.25,15.51
+C_ID1031,Engine Block Heater,15,5,70.35,44.32
+C_ID1032,Wheel locks,20,5,19.99,8.2
+C_ID1033,Brake fluid,15,5,25.99,17.15
+C_ID1034,Rust converter,22,5,12.68,8.88
+C_ID1035,Hydraulic oil,24,5,30.69,19.64
+C_ID1036,Clutch Cleaner,10,5,5.3,2.12
+C_ID1037,Brake Cleaner,20,6,8.49,5.77
+C_ID1038,Battery Terminal,17,5,0.99,0.51
+C_ID1039,Fuse Holder,16,6,2.5,1.7
+C_ID1040,Electrical Cable,14,5,7.69,4.69
+C_ID1041,Heat shrink,21,6,3.49,1.85
+C_ID1042,Electrical Tape,21,5,2.99,1.58
+C_ID1043,Insulation Tape,17,6,5.29,2.65
+C_ID1044,Relays,15,6,4.05,1.62
+C_ID1045,Rivets,25,6,8.25,3.38
+C_ID1046,Split Pins,17,6,2.36,1.66
+C_ID1047,Cable Ties,13,5,9.78,3.91
+C_ID1048,Hose Clamps,15,5,8.75,3.94
+C_ID1049,Washers,22,6,0.43,0.19
+C_ID1050,Springs,20,5,6.28,4.14
+C_ID1051,Adhesive lock,14,5,2.14,0.88
